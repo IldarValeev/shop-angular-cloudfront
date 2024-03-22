@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Links to AWS
+
+- [S3 bucket](http://ildar-e-shop.s3-website-eu-west-1.amazonaws.com/)
+- [CloudFront](https://d28g5wxfxpfmvd.cloudfront.net/)
