@@ -34,3 +34,7 @@ Follow the steps:
 
 - [S3 bucket](http://ildar-e-shop.s3-website-eu-west-1.amazonaws.com/)
 - [CloudFront](https://d28g5wxfxpfmvd.cloudfront.net/)
+
+## To deploy changes to AWS
+
+npm run cloudfront:update:build:deploy:nc
